@@ -65,20 +65,14 @@ Meu nome é Josué Dias, sou estudante de Ciências da Computação no Centro Un
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=JosueeeSantos&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
+    src="https://github-stats-extended.vercel.app/api?username=JosueeeSantos&&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"
+ />
 
-<img 
+ <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=JosueeeSantos&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=JosueeeSantos&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosueeeSantos/JosueeeSantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosueeeSantos/JosueeeSantos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JosueeeSantos/JosueeeSantos/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/JosueeeSantos/JosueeeSantos/blob/output/github-contribution-grid-snake-dark.svg)
